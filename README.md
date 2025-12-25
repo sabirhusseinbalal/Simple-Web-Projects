@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository showcases 10 beginner-friendly web development projects built with HTML, CSS, and JavaScript. Each project serves as a practical exercise to enhance your skills and understanding of web development concepts. The projects are fully responsive and demonstrate various functionalities and design techniques. Here’s a brief overview of each project:
+This repository showcases 10 beginner-friendly web development projects built with HTML, CSS, and JavaScript. Each project serves as a practical exercise to enhance your skills and understanding of web development concepts...
 
 1. **[The Tribute Website](Project-1-Tribute_Website)**: A tribute page that honors a notable person, featuring a clean layout and responsive design.
 
